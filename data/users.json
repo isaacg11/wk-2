@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "834d167827a3d31a4ae89d03",
+    "name": "Alice",
+    "email": "alice@example.com",
+    "password": "Password123!",
+    "createdAt": "2026-08-02T16:28:23.246Z"
+  },
+  {
+    "_id": "af6e5e1e38f199dedcfd6f05",
+    "name": "Bob",
+    "email": "bob@example.com",
+    "password": "Password123!",
+    "createdAt": "2026-07-07T02:23:52.557Z"
+  },
+  {
+    "_id": "f63e620d7e2f50a7ab871e08",
+    "name": "Carol",
+    "email": "carol@example.com",
+    "password": "Password123!",
+    "createdAt": "2026-07-27T15:11:20.341Z"
+  },
+  {
+    "_id": "cba255dc682a00332b29bcfb",
+    "name": "Diana",
+    "email": "diana@example.com",
+    "password": "Password123!",
+    "createdAt": "2026-07-28T15:10:02.160Z"
+  },
+  {
+    "_id": "b8290987dd2b161507a2ccc7",
+    "name": "Ethan",
+    "email": "ethan@example.com",
+    "password": "Password123!",
+    "createdAt": "2026-08-23T05:00:46.017Z"
+  },
+  {
+    "_id": "9260c2ae5e3958ac46110392",
+    "name": "Fiona",
+    "email": "fiona@example.com",
+    "password": "Password123!",
+    "createdAt": "2026-07-06T23:21:59.639Z"
+  },
+  {
+    "_id": "c9a3d05feea8a994ba3ba851",
+    "name": "George",
+    "email": "george@example.com",
+    "password": "Password123!",
+    "createdAt": "2026-09-02T02:49:55.300Z"
+  },
+  {
+    "_id": "b527fd02421e15a247172140",
+    "name": "Hannah",
+    "email": "hannah@example.com",
+    "password": "Password123!",
+    "createdAt": "2026-09-11T09:34:58.850Z"
+  },
+  {
+    "_id": "30eb08f5862e61e046d694b3",
+    "name": "Ian",
+    "email": "ian@example.com",
+    "password": "Password123!",
+    "createdAt": "2026-08-20T13:05:03.923Z"
+  },
+  {
+    "_id": "8e445025b80a02c929e8e135",
+    "name": "Julia",
+    "email": "julia@example.com",
+    "password": "Password123!",
+    "createdAt": "2026-08-07T14:35:42.500Z"
+  }
+]
